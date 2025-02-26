@@ -1,0 +1,19 @@
+
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100%;
+    margin: 2%;
+    padding: 2%;
+}
+
+#ppa{
+    position: fixed;
+    margin-top: 0%
+}
+
+.opp {
+    position: relative;
+    top: -22.5em;
+    left: 120%; 
+}
