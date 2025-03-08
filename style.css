@@ -1,10 +1,14 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
 body{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 100%;
+    font-family: "Alex Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-size: 160%;
     margin: 2%;
     padding: 2%;
+    background-color: #970e33;
 }
 
 #ppa{
@@ -16,4 +20,21 @@ body{
     position: relative;
     top: -22.5em;
     left: 120%; 
+}
+
+*{
+    color: blanchedalmond;
+}
+#headingone{
+    color: rgb(221, 221, 25);
+}
+button{
+    color: burlywood;
+}
+#box{
+    color: black;
+}
+
+.hidden{
+    display: none;
 }
